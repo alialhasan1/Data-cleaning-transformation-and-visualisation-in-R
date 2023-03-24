@@ -20,22 +20,32 @@ The data was initially in a raw format and contained missing values, incorrect d
 • Converted categorical variables to the factor data type.
 <br />
 • Removed unnecessary columns.
+<br />
 • Handled missing values by either removing rows or imputing values.
+<br />
 • Corrected inconsistent values.
 
 ### The Data Transformation Process:
 The data transformation process includes several transformations that were performed to prepare the data for further analysis. These transformations included:
 
 • Grouping the data by state regions and months by quarters to calculate the total number of complaints in different regions overtime. 
+<br />
 • Creating a new columns to identify the year the complaint were received, and whether they have been disputed and consented. 
+<br />
 • Reformatting the data to a long format for easier analysis and visualization
+<br />
 
 ### The Data Visualisation Process:
 After cleaning  and transforming the data, several visualisations were created to explore the dataset. The visualizations were created using the ggplot2 package and included:
 
 • A heat map showing the number of complaints by product.
+<br />
 • A bar chart showing the average processing time by state region.
-• A histogram showing the number of days to process complaints by different submission methods (Email, Fax, Phone, Postal mail, Referral and Web)
+<br />
+• A histogram showing the number of days to process complaints by different submission methods (Email, Fax, Phone, Postal mail, Referral and Web).
+<br />
 • A barplot to show the number of disputed complaints by state region. 
+<br />
 • A line graph of number of complaints by product over year.
+<br />
 • A pie chart showing the share of complaints to each year. 
