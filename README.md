@@ -49,3 +49,12 @@ After cleaning  and transforming the data, several visualisations were created t
 • A line graph of number of complaints by product over year.
 <br />
 • A pie chart showing the share of complaints to each year. 
+
+
+![R1](https://user-images.githubusercontent.com/82133467/227462236-ead6e859-49a4-426c-9dd4-d82a28f857e6.jpg)
+<br />
+![R3](https://user-images.githubusercontent.com/82133467/227462418-d13d3429-4399-4552-aed9-883dac775c54.jpg)
+<br />
+![R4](https://user-images.githubusercontent.com/82133467/227462486-764ead7a-0bf4-4dff-9806-f02359acfe20.jpg)
+
+
