@@ -56,5 +56,8 @@ After cleaning  and transforming the data, several visualisations were created t
 ![R3](https://user-images.githubusercontent.com/82133467/227462418-d13d3429-4399-4552-aed9-883dac775c54.jpg)
 <br />
 ![R4](https://user-images.githubusercontent.com/82133467/227462486-764ead7a-0bf4-4dff-9806-f02359acfe20.jpg)
+<br />
+![R5](https://user-images.githubusercontent.com/82133467/227462933-0b242e31-070d-4379-be3d-e58bbd385c05.jpg)
+
 
 
