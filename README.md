@@ -5,6 +5,8 @@ The US Consumer Finance Complaints dataset by the Consumer Financial Protection 
 
 The complaints were filed by consumers through the CFPB's Consumer Complaint Database, an online portal where consumers can submit complaints about financial products and services, such as credit cards, mortgages, student loans, and payday loans. The database allows consumers to provide detailed information about their complaints, including the company or institution involved, the type of product or service, and the nature of the problem.
 
+The dataset can be found [here](https://drive.google.com/file/d/1ubiSjGzWVTB1p31ylG4N31-ckq4ulqGx/view?usp=sharing)
+
 ## Project Deliverables & Objectives: 
 
 The project was performed in R using different libraries such as tidyverse, ggplot2, dplyr and data.table packages. The goal of the project was to clean and transform the data to make it easier to analyse and visualise.
