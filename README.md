@@ -20,15 +20,15 @@ The data was initially in a raw format and contained missing values, incorrect d
 • Handled missing values by either removing rows or imputing values.
 • Corrected inconsistent values.
 
-### Data Transformation
+### The Data Transformation Process:
 The data transformation process includes several transformations that were performed to prepare the data for further analysis. These transformations included:
 
 • Grouping the data by state regions and months by quarters to calculate the total number of complaints in different regions overtime. 
 • Creating a new columns to identify the year the complaint were received, and whether they have been disputed and consented. 
 • Reformatting the data to a long format for easier analysis and visualization
 
-### Data Visualization
-After cleaning  and transforming the data, several visualizations were created to explore the dataset. The visualizations were created using the ggplot2 package and included:
+### The Data Visualisation Process:
+After cleaning  and transforming the data, several visualisations were created to explore the dataset. The visualizations were created using the ggplot2 package and included:
 
 • A heat map showing the number of complaints by product.
 • A bar chart showing the average processing time by state region.
