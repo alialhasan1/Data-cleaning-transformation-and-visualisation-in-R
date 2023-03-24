@@ -14,8 +14,11 @@ The project was performed in R using different libraries such as tidyverse, ggpl
 The data was initially in a raw format and contained missing values, incorrect data types, and inconsistent values. The following steps were taken to clean the data:
 
 • Renamed columns to make them more descriptive.
+<br />
 • Converted date columns to the appropriate date format.
+<br />
 • Converted categorical variables to the factor data type.
+<br />
 • Removed unnecessary columns.
 • Handled missing values by either removing rows or imputing values.
 • Corrected inconsistent values.
