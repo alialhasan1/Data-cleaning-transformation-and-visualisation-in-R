@@ -9,7 +9,7 @@ The dataset can be found [here](https://drive.google.com/file/d/1ubiSjGzWVTB1p31
 
 ## Project Deliverables & Objectives: 
 
-The project was performed in R using different libraries such as tidyverse, ggplot2, dplyr and data.table packages. The goal of the project was to clean and transform the data to make it easier to analyse and visualise.
+The project was performed in R using different libraries such as tidyverse, ggplot2, dplyr and data.table packages. The goal of the project was to clean and transform the data to make it easier to analyse and visualise consumer complaints.
 
 ### The Data Cleaning Process: 
 
